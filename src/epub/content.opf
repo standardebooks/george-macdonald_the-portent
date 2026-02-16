@@ -29,49 +29,60 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">The Portent</dc:title>
 		<meta property="file-as" refines="#title">Portent, The</meta>
+		<meta property="title-type" refines="#title">main</meta>
+		<dc:title id="subtitle">A Story of the Inner Vision of the Highlanders, Commonly Called “The Second Sight”</dc:title>
+		<meta property="file-as" refines="#subtitle">Story of the Inner Vision of the Highlanders, Commonly Called “The Second Sight,” A</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<dc:title id="fulltitle">The Portent: A Story of the Inner Vision of the Highlanders, Commonly Called “The Second Sight”</dc:title>
+		<meta property="file-as" refines="#fulltitle">Portent, The</meta>
+		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Short stories</dc:subject>
 		<meta property="authority" refines="#subject-1">LCHS</meta>
 		<meta property="term" refines="#subject-1">sh85121813</meta>
 		<dc:subject id="subject-2">Highlands (Scotland) -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-2">LCHS</meta>
 		<meta property="term" refines="#subject-2">sh2008105497</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fantasy</meta>
+		<meta property="se:subject">Horror</meta>
+		<meta property="se:subject">Mystery</meta>
+		<dc:description id="description">A young Scottish tutor, gifted with a supernatural sense, discovers a haunting connection to a somnambulant noblewoman while residing at a remote English estate.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Duncan Campbell, a young Scotsman, is burdened by the “second sight,” a hereditary gift manifesting as a terrifying auditory omen of a horse with a dangling shoe. Seeking a reprieve from these supernatural afflictions, he accepts a tutoring position at Hilton Hall in northern England. There, he becomes fascinated by the daughter of the house, a woman whose waking life is defined by a strange mental vacancy, but who possesses a profound and hidden soul while in a state of somnambulism. As Duncan attempts to bridge the gap between her two identities, he realizes that his ancestral legacy may have followed him across the border.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/8913</dc:source>
-		<dc:source>PAGE_SCANS_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/portentmac00macduoft</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Portent</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/george-macdonald_the-portent</meta>
 		<dc:creator id="author">George MacDonald</dc:creator>
 		<meta property="file-as" refines="#author">MacDonald, George</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/George_MacDonald</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78096948</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST_NAME</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Albert Pinkham Ryder</dc:contributor>
+		<meta property="file-as" refines="#artist">Ryder, Albert Pinkham</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Albert_Pinkham_Ryder</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n88163150</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">Text file produced by Jonathan Ingram</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_1_SORT</meta>
+		<dc:contributor id="transcriber-1">Sandra Brown</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Sandra, Brown</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">Sandra Brown</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">Sandra, Brown</meta>
+		<dc:contributor id="transcriber-2">Jonathan Ingram</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Ingram, Jonathan</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-3">the DP Team HTML file produced by David Widger</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">TRANSCRIBER_3_SORT</meta>
+		<dc:contributor id="transcriber-3">David Widger</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Widger, David</meta>
 		<meta property="se:url.authority.nacoaf" refines="#transcriber-3">http://id.loc.gov/authorities/names/no2011017869</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER_NAME</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-4">Distributed Proofreaders</dc:contributor>
+		<meta property="file-as" refines="#transcriber-4">Distributed Proofreaders</meta>
+		<meta property="se:url.homepage" refines="#transcriber-4">https://www.pgdp.net/</meta>
+		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">C. B. Bowman</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Bowman, C. B.</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://github.com/cbbowman</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
