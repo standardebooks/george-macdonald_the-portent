@@ -37,10 +37,10 @@
 		<meta property="file-as" refines="#fulltitle">Portent, The</meta>
 		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Short stories</dc:subject>
-		<meta property="authority" refines="#subject-1">LCHS</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85121813</meta>
 		<dc:subject id="subject-2">Highlands (Scotland) -- Fiction</dc:subject>
-		<meta property="authority" refines="#subject-2">LCHS</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2008105497</meta>
 		<meta property="se:subject">Fantasy</meta>
 		<meta property="se:subject">Horror</meta>
