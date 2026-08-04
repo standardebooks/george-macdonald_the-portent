@@ -46,7 +46,7 @@
 		<meta property="schema:genre">Fantasy</meta>
 		<meta property="schema:genre">Horror</meta>
 		<meta property="schema:genre">Mystery</meta>
-		<dc:abstract>A young Scottish tutor, gifted with a supernatural sense, discovers a haunting connection to a somnambulant noblewoman while residing at a remote English estate.</dc:abstract>
+		<meta property="schema:abstract">A young Scottish tutor, gifted with a supernatural sense, discovers a haunting connection to a somnambulant noblewoman while residing at a remote English estate.</meta>
 		<dc:description>
 			&lt;p&gt;Duncan Campbell, a young Scotsman, is burdened by “second sight,” a hereditary gift manifesting as a terrifying auditory omen of a horse with a dangling shoe. Seeking a reprieve from these supernatural afflictions, he accepts a tutoring position at Hilton Hall in northern England. There, he becomes fascinated by the daughter of the house, a woman whose waking life is defined by a strange mental vacancy, but who possesses a profound and hidden soul while in a state of somnambulism. As Duncan attempts to bridge the gap between her two identities, he realizes that his ancestral legacy may have followed him across the border.&lt;/p&gt;
 		</dc:description>
