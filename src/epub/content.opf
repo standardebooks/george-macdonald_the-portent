@@ -40,7 +40,7 @@
 		<dc:subject id="subject-1">Short stories</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85121813</meta>
-		<dc:subject id="subject-2">Highlands (Scotland) -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Highlands (Scotland)--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2008105497</meta>
 		<meta property="schema:genre">Fantasy</meta>
